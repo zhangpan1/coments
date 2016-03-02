@@ -1,0 +1,100 @@
+body {
+	margin:0;
+	padding:0;
+	font-size:15px;
+
+}
+
+#main {
+	margin:auto;
+	margin-top:50px;
+	width:540px;
+	height:450px;
+	position:relative;
+}
+
+#u,li {
+	padding:0;
+	margin:0;
+	float:left;
+	list-style-type:none;
+}
+
+#face,#anime,#picture,#vidio,#modle,#more,#talk,#ticket,#at,#user,#address{
+	width:50px;
+	height:20px;
+	text-align:right;
+	margin-right:17px;
+}
+#face {background: url(image.png) no-repeat 0 6px;}
+#face:hover {background: url(image.png) no-repeat 0 -17px;}
+#anime {background: url(image.png) no-repeat 0 -44px;}
+#anime:hover {background: url(image.png) no-repeat 0 -68px;}
+#picture {background: url(image.png) no-repeat 0 -92px;}
+#picture:hover {background: url(image.png) no-repeat 0 -116px;}
+#vidio {background: url(image.png) no-repeat 0 -140px;}
+#vidio:hover {background: url(image.png) no-repeat 0 -164px;}
+#modle {background: url(image.png) no-repeat 0 -188px;}
+#modle:hover {background: url(image.png) no-repeat 0 -214px;}
+#more {background: url(image.png) no-repeat 0 -240px;}
+#more:hover {background: url(image.png) no-repeat 0 -256px;}
+
+#talk {background: url(image.png) no-repeat 0 -278px;}
+#talk:hover {background: url(image.png) no-repeat 0 -300px;}
+#ticket {background: url(image.png) no-repeat 0 -324px;}
+#ticket:hover {background: url(image.png) no-repeat 0 -350px;}
+#at {background: url(image.png) no-repeat 0 -376px;}
+#at:hover {background: url(image.png) no-repeat 0 -400px;}
+#user {background: url(image.png) no-repeat 0 -428px;}
+#user:hover {background: url(image.png) no-repeat 0 -454px;}
+#address {background: url(image.png) no-repeat 0 -480px;}
+#address:hover {background: url(image.png) no-repeat 0 -506px;}
+
+#m {
+	position:absolute;
+	margin-left:294px;
+	margin-top:25px;
+	display:none;
+}
+#m li {
+	float:none;
+}
+button {
+	float:right;
+	margin:5px;
+	background:none #B78D63;
+	border: 1px solid #9D7E60;
+	color:#fff;
+	width: 66px;
+	height:22px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
