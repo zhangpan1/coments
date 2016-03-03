@@ -1,5 +1,5 @@
 window.onload = function(){
-var more = document.getElementById('more');
+var more = document.getElementsByClassName('more')[0];
 var m = document.getElementById('m');
 more.addEventListener('mouseover',function(){
 	m.style.display = 'block';
