@@ -25,17 +25,17 @@ body {
 	text-align:right;
 	margin-right:17px;
 }
-.face {background: url(image.png) no-repeat 0 6px;}
-.face:hover {background: url(image.png) no-repeat 0 -17px;}
-.anime {background: url(image.png) no-repeat 0 -42px;}
-.anime:hover {background: url(image.png) no-repeat 0 -68px;}
-.picture {background: url(image.png) no-repeat 0 -92px;}
-.picture:hover {background: url(image.png) no-repeat 0 -116px;}
-.vidio {background: url(image.png) no-repeat 0 -140px;}
-.vidio:hover {background: url(image.png) no-repeat 0 -164px;}
-.modle {background: url(image.png) no-repeat 0 -188px;}
-.modle:hover {background: url(image.png) no-repeat 0 -214px;}
-.more {background: url(image.png) no-repeat 0 -240px;}
+.face {background: url(image.png) no-repeat 0 3px;}
+.face:hover {background: url(image.png) no-repeat 0 -20px;}
+.anime {background: url(image.png) no-repeat 0 -45px;}
+.anime:hover {background: url(image.png) no-repeat 0 -71px;}
+.picture {background: url(image.png) no-repeat 0 -96px;}
+.picture:hover {background: url(image.png) no-repeat 0 -120px;}
+.vidio {background: url(image.png) no-repeat 0 -144px;}
+.vidio:hover {background: url(image.png) no-repeat 0 -168px;}
+.modle {background: url(image.png) no-repeat 0 -192px;}
+.modle:hover {background: url(image.png) no-repeat 0 -218px;}
+.more {background: url(image.png) no-repeat 0 -242px;}
 .more:hover {background: url(image.png) no-repeat 0 -259px;}
 
 .talk {background: url(image.png) no-repeat 0 -278px;}
@@ -52,7 +52,7 @@ body {
 #m {
 	position:absolute;
 	margin-left:-40px;
-	margin-top:-2px;
+	margin-top:2px;
 	display:none;
 }
 #m li {
@@ -67,7 +67,10 @@ button {
 	width: 66px;
 	height:22px;
 }
-
+li:hover {
+	border:1px solid blue;
+	border-radius: 2px;
+}
 
 
 
