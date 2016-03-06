@@ -73,6 +73,12 @@ li:hover {
 	width:48px;
 	height: 18px;
 }
+.words {
+	width:230px;
+	height:25px;
+	line-height: 25px;
+	background-color: #eee;
+}
 
 
 
